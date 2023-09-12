@@ -8,11 +8,11 @@ body {
 
 header {
     background-color: #007BFF;
-    background-image: url(Imagenes/hospital\ xd.JPG);
+    background-image: url(Imagenes/Imagen\ hospital.jpg);
     background-position: center center;
-    background-repeat: no-repeat;
+    background-repeat: round space;
     background-size: cover;
-    color: #ffffff;
+    color: #002064;
     text-align: center;
     padding: 20px 0;
 }
